@@ -1,0 +1,24 @@
+{
+  "name": "import_tree_visual",
+  "version": "1.0.0",
+  "description": "将项目中的所有文件中引入的import文件遍历成树，并可视化展示出来。",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mybells/import_tree_visual.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mybells/import_tree_visual/issues"
+  },
+  "homepage": "https://github.com/mybells/import_tree_visual#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
